@@ -9,7 +9,7 @@
 
 ## 📍 Project Overview
 
-**HPVx Navigator** is a web‑based navigation tool that guides people to practical, state‑specific pathways for multiple states for getting the free/low-cost human papillomavirus (HPV) vaccine and community resources for social needs that could help access to the healthcare services. It delivers clear eligibility screening, step‑by‑step access instructions, and community resource referrals—all written in plain, approachable language. This project is part of the **American Cancer Society's HPV Roundtable Emerging Leaders Program**.
+**HPVx Navigator** is a web‑based navigation tool that guides people to practical, state‑specific pathways for multiple states for getting the free/low-cost human papillomavirus (HPV) vaccine and community resources for social needs that could help access to healthcare services. It delivers clear eligibility screening, step‑by‑step access instructions, and community resource referrals—all written in plain, approachable language. This **State Focus Hub: GA & NC** is a sub-project tailored specifically for Georgia and North Carolina. This GA and NC-specific project is part of the **American Cancer Society's HPV Roundtable Emerging Leaders Program**.
 
 ## 👥 Investigators
 
@@ -19,7 +19,7 @@
 ## 🔑 Core Features
 
 - Eligibility Screener – short questions tailor guidance to the user’s state, age, insurance status, and other Vaccines for Children (VFC) or other free vaccine program's eligibility.
-- Vaccination Pathway Finder – interactive tool with step‑by‑step directions on where to go, how to book, and the potential associated cost in each state.
+- Vaccination Pathway Finder – an interactive tool with step‑by‑step directions on where to go, how to book, and the potential associated cost in each state.
 - Community Resource Match – curated, state‑level links to transportation, financial help, language support, and other social‑needs services.
 - Plain‑Language Messaging – all on‑screen text meets ≤8th‑grade readability and is iteratively user‑tested for clarity.
 - Educational Library for Families – printable guides explaining how uninsured or under‑insured children can access HPV vaccination, including VFC program details.
@@ -33,7 +33,7 @@
 
 ## 🌎 Intended Impact
 
-HPVx Navigator reduces structural barriers to HPV vaccination by translating complex eligibility rules and fragmented service information into simple, actionable steps. By integrating social‑needs resources and plain‑language education, the tool supports equitable vaccine uptake—especially among uninsured, under‑insured, and historically underserved populations.
+HPVx Navigator State Focus Hub: GA & NC reduces structural barriers to HPV vaccination by translating complex eligibility rules and fragmented service information into simple, actionable steps. By integrating social‑needs resources and plain‑language education, the tool supports equitable vaccine uptake—especially among uninsured, under‑insured, and historically underserved populations in the states of Georgia and North Carolina.
 
 ## 📬 Contact
 
