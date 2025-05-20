@@ -7,8 +7,6 @@
   <img src="https://github.com/user-attachments/assets/358b2074-da8e-40b4-b949-008696912577" width="300" alt="HPVxNavNC"/>
 </p>
 
-# HPVx Navigator
-
 ## 📍 Project Overview
 
 **HPVx Navigator** is a web‑based navigation tool that guides people to practical, state‑specific pathways for multiple states for getting the free/low-cost human papillomavirus (HPV) vaccine and community resources for social needs that could help access to the healthcare services. It delivers clear eligibility screening, step‑by‑step access instructions, and community resource referrals—all written in plain, approachable language. This project is part of the **American Cancer Society's HPV Roundtable Emerging Leaders Program**.
