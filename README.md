@@ -11,7 +11,7 @@
 
 **HPVx Navigator** (parent project) is a web‑based navigation tool that guides people to practical, state‑specific pathways for multiple states for getting the free/low-cost human papillomavirus (HPV) vaccine and community resources for social needs that could help access healthcare services. It delivers clear eligibility screening, step‑by‑step access instructions, and community resource referrals—all written in plain, approachable language. This **State Focus Hub: GA & NC** is a sub-project tailored specifically for Georgia and North Carolina. This GA and NC-specific project is part of the **American Cancer Society's HPV Roundtable Emerging Leaders Program**.
 
-## >> 🤖 [Click to check our HPVxNavi Shiny App Prototype](https://suk-decision-science-lab.shinyapps.io/hpvxnavi/)
+## >> 🤖 [Click to check our HPVxNavi Shiny App Prototype](https://suk-decision-science-lab.shinyapps.io/hpvxnavi/) Still in development!
 
 ## >> To check the ACS-funded HPVx Navigator project >>> 👉[Click here](https://github.com/ryan-suk/HPVxNavigator)
 
