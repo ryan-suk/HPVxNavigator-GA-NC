@@ -23,7 +23,7 @@
 ## Core Features
 
 - Eligibility Screener – short questions tailor guidance to the user’s state, age, insurance status, and other Vaccines for Children (VFC) or other free vaccine program's eligibility.
-- Vaccination Pathway Finder – an interactive tool with step‑by‑step directions on where to go, how to book, and the potential associated cost in each state.
+- VFC Provider Finder – an interactive tool with step‑by‑step directions on where to go, how to book, and the potential associated cost in each state.
 - Community Resource Match – curated, state‑level links to transportation, financial help, language support, and other social‑needs services.
 - Plain‑Language Messaging – all on‑screen text meets ≤8th‑grade readability and is iteratively user‑tested for clarity.
 - Educational Library for Families – printable guides explaining how uninsured or under‑insured children can access HPV vaccination, including VFC program details.
